@@ -1,3 +1,5 @@
+To import: git clone https://github.com/Mte2112/regional_means_ar6
+
 ————Environment setup (only have to do this once)————
 1. Load latest Python module
 	1.A. module load python/GEOSpyD/Min23.3.1-0_py3.10
